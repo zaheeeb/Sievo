@@ -5,7 +5,7 @@
 ### Installation
 
 . Code is developed in C# console application and can be run through visual studio.
-- slack webhhok key and user name are stored to system variables as 'webhook' and 'slack_user_name' respectively.
+- slack webhhok key and user name are needed to be stored to system variables as 'webhook' and 'slack_user_name' respectively.
 
 ### Steps to executs program
  - Run code in visual studio. 
