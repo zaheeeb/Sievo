@@ -20,4 +20,5 @@
  - Input fields validation can be done. 
  - Dynamic path of logs file can be implemented.
  - Time/error specific search.
- - Sending notifications to server for scalability. 
+ - Sending notifications to server for scalability.
+ - Error handling if channel is not found.
