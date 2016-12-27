@@ -9,9 +9,9 @@
 
 ### Steps to executs program
  - Run code in visual studio. 
- - Console will ask for threshold which should be any number but for complete application working it can be 1.
- - Console will ask for logs file name which should be given as "logs.txt"
- - Console will ask for search server name which should be given as production_1.
+ - Console will ask for threshold which should be any number but for complete application working it can be '1'.
+ - Console will ask for logs file name which should be given as 'logs.txt'.
+ - Console will ask for search server name which should be given as 'production_1'.
  - Because in logs file errors are more than 1, so system will ask for Slack channel name to be notified.
  - By giving slack channel e.g. random following message is posted to slack channel. 
     "Error logged 3 times which is more than given threashold 1 of server production_1"
