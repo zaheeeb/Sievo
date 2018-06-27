@@ -1,4 +1,4 @@
-# Sievo - Slack integration with errors log file
+# Slack integration with errors log file
 
 . This code is tracking logs file and notify to Slack channel once threshold is met.
 
